@@ -15,6 +15,7 @@ def graph_gen(name, nv, ne):
         #print(u, v)
         df.loc[i] = [u, v]
         #print(i,": adding edge",u,v)
+        ha! ha!!
     return df
 
 
